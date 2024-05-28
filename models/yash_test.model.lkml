@@ -1,5 +1,5 @@
-# connection: "thelook_mysql"
-connection: "conn_test"
+connection: "thelook_mysql"
+# connection: "conn_test"
 
 # include all the views
 include: "/views/**/*.view.lkml"
